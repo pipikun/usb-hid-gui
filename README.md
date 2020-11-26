@@ -1,6 +1,6 @@
 USB调试工具
 ================================================================
-用python2.7、Tkinter、pywinusb(pyusb-linux)模块开发的USB调试工具<br>
+用python3.8、Tkinter、pywinusb(pyusb-linux)模块开发的USB调试工具<br>
 
 已将串口工具和USB整合在一起
 * [SlaveDebugTool](https://git.oschina.net/jakey.chen/SlaveDebugTool)
